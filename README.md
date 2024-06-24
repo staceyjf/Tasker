@@ -3,7 +3,7 @@
 A Typescript React front end todo app. I originally created a springboot back-end in Spring Boot with a mySQL database but recently working on a Flask backend as an alternate.
 
 <div align="center">
-  <img src="./React/public/springtasker.gif" alt="Todo Homepage">
+  <img src="./public/springtasker.gif" alt="Todo Homepage">
 </div>
 
 ## Build Steps
@@ -38,9 +38,9 @@ SpringTasker is a full-stack application that lets you keep track of all your to
 
 ## Screenshots
 
-| New Todo form                                 | Update Todo form                                 | Test                                   |
-| --------------------------------------------- | ------------------------------------------------ | -------------------------------------- |
-| <img src="./React/public/newtodoform.png"  /> | <img src="./React/public/updatetodoform.png"  /> | <img src="./React/public/test.png"  /> |
+| New Todo form                           | Update Todo form                           | Test                             |
+| --------------------------------------- | ------------------------------------------ | -------------------------------- |
+| <img src="./public/newtodoform.png"  /> | <img src="./public/updatetodoform.png"  /> | <img src="./public/test.png"  /> |
 
 ## Technologies Used
 
